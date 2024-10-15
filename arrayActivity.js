@@ -1,6 +1,6 @@
 let favSingers = ["Ed Sheeran", "Thomas Jacob Black", "Avril Lavona Lavigne"];
 
-console.log(favSingers[0])
+console.log(favSingers[0]);
 
 favNumbers = [1, 2, 3, 4];
 
